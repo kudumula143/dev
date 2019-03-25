@@ -8,4 +8,8 @@ Class demo
   {
   s.o.p("code");
   }
+  command(...)
+  {
+  ....
+  }
 }
